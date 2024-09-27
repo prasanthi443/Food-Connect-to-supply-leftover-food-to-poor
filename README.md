@@ -1,1 +1,12 @@
-This project aims to address both food waste and food insecurity, often found in the same communities, by creating a solution that tackles both issues simultaneously. We plan to connect surplus food suppliers, such as local restaurants, grocery stores, and food producers, with individuals and families in need. By partnering with these suppliers, we'll collect food that is still good to eat but would otherwise be discarded and redistribute it to those who lack adequate access to nutritious meals.
+FOOD CONNECT - TO SUPPLY LEFTOVER FOOD TO POOR
+
+Food Connect is a Salesforce-based platform aimed at reducing food waste by connecting venues with surplus food to organizations or volunteers who can distribute it to those in need. The platform streamlines the collection, management, and distribution process, ensuring leftover food reaches people who need it most.
+
+Features
+Venue Management: Manage locations contributing surplus food.
+Drop-off Points: Define collection points for volunteers to pick up and drop off food.
+Task Assignment: Assign and manage tasks for volunteers handling food collection and distribution.
+Volunteer Management: Track volunteers, their availability, and task assignments.
+Execution Details: Oversee the entire process of collection and distribution, from scheduling to completion.
+Reports: Generate real-time reports on food donations, distributions, and overall project impact.
+Dashboards: View graphical insights into key metrics such as food donations, volunteer engagement, and distribution progress.
